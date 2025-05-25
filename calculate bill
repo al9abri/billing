@@ -3,3 +3,5 @@ add
 print sum
 if amount >600 give discount 
 else no
+add credit points
+allow the claim
